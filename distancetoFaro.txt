@@ -1,0 +1,18 @@
+aveiro,366
+braga,454
+braganca,487
+beja,99
+castelo branco,280
+coimbra,319
+evora,157
+faro,0
+guarda,352
+leiria,278
+lisboa,195
+portalegre,228
+porto,418
+santarem,231
+setubal,168
+viana,473
+vila real,429
+viseu,363

@@ -1,0 +1,68 @@
+aveiro,porto,68
+aveiro,viseu,95
+aveiro,coimbra,68
+aveiro,leiria,115
+braga,viana do castelo,48
+braga,vila real,106
+braga,porto,53
+braganca,vila real,137
+braganca,guarda,202
+beja,evora,78
+beja,faro,152
+beja,setubal,142
+castelo branco,coimbra,159
+castelo branco,guarda,106
+castelo branco,portalegre,80
+castelo branco,evora,203
+coimbra,viseu,96
+coimbra,leiria,67
+coimbra,castelo branco,159
+coimbra,aveiro,68
+evora,lisboa,150
+evora,santarem,117
+evora,portalegre,131
+evora,setubal,103
+evora,castelo branco,203
+evora,beja,78
+faro,setubal,249
+faro,lisboa,299
+faro,beja,152
+guarda,vila real,157
+guarda,viseu,85
+guarda,castelo branco,106
+guarda,braganca,202
+leiria,lisboa,129
+leiria,santarem,70
+leiria,aveiro,115
+leiria,coimbra,67
+lisboa,santarem,78
+lisboa,setubal,70
+lisboa,faro,299
+lisboa,evora,150
+lisboa,leiria,129
+porto,viana do castelo,71
+porto,vila real,116
+porto,viseu,133
+porto,braga,53
+porto,aveiro,68
+vila real,viseu,110
+vila real,porto,116
+vila real,guarda,157
+vila real,braganca,137
+vila real,braga,106
+viseu,porto,133
+viseu,vila real,110
+viseu,guarda,85
+viseu,coimbra,96
+viseu,aveiro,95
+viana do castelo,porto,71
+viana do castelo,braga,48
+santarem,lisboa,78
+santarem,evora,117
+santarem,leiria,70
+setubal,lisboa,70
+setubal,faro,249
+setubal,evora,103
+setubal,beja,142
+portalegre,evora,131
+portalegre,castelo branco,80
